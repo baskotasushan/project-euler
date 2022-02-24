@@ -1,4 +1,5 @@
 void main() {
+  // O(1) complexity
   double sum = seriesSumOf(999, 3) +
       seriesSumOf(999, 5) -
       seriesSumOf(999, 15);
